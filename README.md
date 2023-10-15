@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thilanwijesinghe" alt="thilanwijesinghe" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/thila_umtr" target="blank"><img src="https://img.shields.io/twitter/follow/thila_umtr?logo=twitter&style=for-the-badge" alt="thila_umtr" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/thilan-wijesinghe-8a1654260/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNxxjgRqXA-3YyS6sf4Uz3V-D46IcsEhL9dgZpXGzXimWIjOQ2eODj54BtCCMsu0gkIY&usqp=CAU" alt="thilan-wijesinghe" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/thilan-wijesinghe-8a1654260/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNxxjgRqXA-3YyS6sf4Uz3V-D46IcsEhL9dgZpXGzXimWIjOQ2eODj54BtCCMsu0gkIY&usqp=CAU" alt="thilan-wijesinghe" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thilan-wijesinghe-8a1654260/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNxxjgRqXA-3YyS6sf4Uz3V-D46IcsEhL9dgZpXGzXimWIjOQ2eODj54BtCCMsu0gkIY&usqp=CAU" alt="thilan-wijesinghe" height="30" width="35" /></a>
 <a href="https://fb.com/thilan wijesinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thilan wijesinghe" height="30" width="40" /></a>
 <a href="https://instagram.com/thilan__wijesinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thilan__wijesinghe" height="30" width="40" /></a>
 <a href="https://discord.gg/thila#6168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="thila#6168" height="30" width="40" /></a>
@@ -54,8 +54,8 @@
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> -->
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="" width="900"  src="https://github-readme-stats.vercel.app/api/top-langs?username=thilanwijesinghe&show_icons=true&locale=en&layout=compact" alt="thilanwijesinghe" /></p>
+<p><img align="" width="900"  height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilanwijesinghe&show_icons=true&locale=en&layout=compact" alt="thilanwijesinghe" /></p>
 
-<p>&nbsp;<img align="" width="900"  src="https://github-readme-stats.vercel.app/api?username=thilanwijesinghe&show_icons=true&locale=en" alt="thilanwijesinghe" /></p>
+<!--<p>&nbsp;<img align="" width="900"  src="https://github-readme-stats.vercel.app/api?username=thilanwijesinghe&show_icons=true&locale=en" alt="thilanwijesinghe" /></p>-->
 
-<p><img align=""  width="900" src="https://github-readme-streak-stats.herokuapp.com/?user=thilanwijesinghe&" alt="thilanwijesinghe" /></p>
+<p><img align=""  width="900"  height="140" src="https://github-readme-streak-stats.herokuapp.com/?user=thilanwijesinghe&" alt="thilanwijesinghe" /></p>
