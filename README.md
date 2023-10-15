@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thilanwijesinghe" alt="thilanwijesinghe" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/thilan-wijesinghe-8a1654260/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNxxjgRqXA-3YyS6sf4Uz3V-D46IcsEhL9dgZpXGzXimWIjOQ2eODj54BtCCMsu0gkIY&usqp=CAU" alt="thilan-wijesinghe" /></a> </p>
+
 
 - 🌱 I’m currently learning **React Native**
 
