@@ -1,6 +1,6 @@
 ![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <h1 align="center">Hi 👋, I'm Thilan Wijesinghe</h1>
-<h3 align="center">𝗕𝗦𝗰(𝗛𝗼𝗻𝘀) 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 𝗨𝗻𝗱𝗲𝗿𝗴𝗿𝗮𝗱𝘂𝗮𝘁𝗲 👨🏻‍🎓 Sσϝƚɯαɾҽ Eɳɠιɳҽҽɾ🧑🏼‍💻</h3>
+<h3 align="center">𝗕𝗦𝗰(𝗛𝗼𝗻𝘀) 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿  👨🏻‍🎓 Sσϝƚɯαɾҽ Eɳɠιɳҽҽɾ🧑🏼‍💻</h3>
 <!-- <img aling="center" alt="Developer" width="900"   height="140" hi src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilanwijesinghe&label=Profile%20views&color=0e75b6&style=flat" alt="thilanwijesinghe" /> </p>
